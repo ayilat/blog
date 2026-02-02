@@ -5,3 +5,14 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.post {
+    background: #dfd;
+    padding: 12px 24px;
+    border-radius: 12px;
+}
+
+.post-header {
+    // color of markdown <hr> 's
+    border-bottom: 1px solid rgb(65.25, 65.25, 65.25);
+}
