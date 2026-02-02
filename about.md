@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is ayilat. I'd rather not put too much information about myself on a publically accessible website since the internet is a (mostly) permanent log, but,
+- CS Major
+- currently playing [Vintage Story](https://www.vintagestory.at), [Ostriv](https://store.steampowered.com/app/773790/Ostriv), and [Cairn](https://store.steampowered.com/app/773790/Ostriv)
+- recently switched to home row touch typing from shift/WASD and hjkl
+- I use neovim, btw (programming socks not included)
