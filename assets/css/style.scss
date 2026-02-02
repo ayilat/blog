@@ -7,12 +7,14 @@
   "minima/initialize";
 
 .post {
-    background: #dfd;
-    padding: 12px 24px;
-    border-radius: 12px;
+  background: #dfd;
+  padding: 12px 24px;
+  border-radius: 12px;
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 450;
 }
 
 .post-header {
-    // color of markdown <hr> 's
-    border-bottom: 1px solid rgb(65.25, 65.25, 65.25);
+  // color of markdown <hr> 's
+  border-bottom: 1px solid rgb(65.25, 65.25, 65.25);
 }
