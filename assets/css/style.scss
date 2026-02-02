@@ -19,6 +19,14 @@
   border-bottom: 1px solid rgb(65.25, 65.25, 65.25);
 }
 
+.post a:link {
+  color: darkseagreen;
+}
+
+.post a:visited {
+  color: seagreen;
+}
+
 .post a {
   text-decoration: underline;
 }
@@ -28,10 +36,3 @@
   color: teal;
 }
 
-.post a:link {
-  color: darkseagreen;
-}
-
-.post a:visited {
-  color: seagreen;
-}
