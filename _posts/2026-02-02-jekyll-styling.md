@@ -42,7 +42,7 @@ thinking that nothing would have changed. Of course, I comitted the [change](htt
 
 While I'm thinking of things to write, one problem I've come into is that GitHub won't build the site---no runners get assigned.
 
-![GitHub workflow error message](/assets/media/2026-02-02-github-wont-build.png)
+![GitHub workflow error message]({{ "/assets/media/2026-02-02-github-wont-build.png" | relative_url }})
 
 Very fun. I'll try later.
 
@@ -50,8 +50,8 @@ Very fun. I'll try later.
 
 Another CSS irregularity that I encountered was that apparently Jekyll/minima is applying a CSS property that I've never heard of (and neither has my syntax highlighter): `text-underline-offset`. Personal preference: I like to have all links underlined, so I set `text-decoration: underline` for links as you can see ↑ there. What happened was that when I hovered over links, their underline would shift down a couple pixels. It took a long time to debug since it wasn't being shown on dev tools (how???) and it still happened even when I manually disabled all properties for it.
 
-![Three underlined links](/assets/media/2026-02-02-links-before.png)
-![Leftmost link's underline is lower than the rest](/assets/media/2026-02-02-links-after.png)
+![Three underlined links]({{ "/assets/media/2026-02-02-links-before.png" | relative_url }})
+![Leftmost link's underline is lower than the rest]({{ "/assets/media/2026-02-02-links-after.png" | relative_url }})
 
 See the 'y' occluding the line in top one but doesn't in the bottom?
 
